@@ -1,0 +1,15 @@
+body {
+	font-size: 13px;
+}
+
+#bio {
+	letter-spacing: .040em;
+}
+
+#bio p {
+	margin-bottom: 13px;
+}
+
+textarea {
+	overflow: auto;
+}
